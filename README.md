@@ -1,4 +1,4 @@
-# Tableau
+# Tableau Data Visualizations
 
 ## 1. The Startup Quadrant
     Analysis of top 1000 potentially interesting startups and helping Venture Capitalists decide which ones to invest in, basedon the following criteria:
